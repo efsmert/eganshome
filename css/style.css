@@ -64,3 +64,7 @@
   
   /* Footer */
   .footer{background:var(--clr-primary-dark);color:#fff;text-align:center;padding:1rem 0;}
+.contact-alternative {
+  text-align: center;
+  margin-top: 20px; /* Add some space above the text */
+}
