@@ -25,7 +25,7 @@ window.addEventListener('DOMContentLoaded', () => {
           prev  = document.getElementById('gallery-prev'),
           next  = document.getElementById('gallery-next');
     let index   = 1;
-    const MAX   = 10;            // gallery photos (1-10)
+    const MAX   = 12;            // gallery photos (1-12)
     const updateSrc = () => {
       imgEl.src = `assets/gallery/${index}.jpg`;
     };
